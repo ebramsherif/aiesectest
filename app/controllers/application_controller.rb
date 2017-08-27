@@ -4,4 +4,7 @@ class ApplicationController < ActionController::Base
   def elbus
   2
   end
+  def bakalolo
+  1
+  end
 end
